@@ -13,7 +13,7 @@ namespace ApiCalculadoraSoftplan.Controllers
 {
     [Route("[controller]")]
     [ApiController]
-    public class CalculajurosController : ControllerBase
+    public class CalculaJurosController : ControllerBase
     {
         /// <summary>
         /// Retorna o juros acúmulado com o valor inícial calculado com base na quantidade de meses informada
