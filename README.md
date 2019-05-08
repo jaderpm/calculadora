@@ -14,7 +14,7 @@ Você deverá ter uma IDE, de preferência o Visual Studio e o software docker p
 
 ## Rodando a api
 
-Abra a solution no Visual Studio, navegue até o projeto ApiCalculadoraSoftplan e aperte f5. Será aberto o navegador com a lista dos endpoints,
+Abra a solution "ApiCalculadoraSoftplan" no Visual Studio, navegue até o projeto ApiCalculadoraSoftplan e aperte f5. Será aberto o navegador com a lista dos endpoints,
 suas variáveis, tudo documentado com swagger.
 ### Os endpoints
 
@@ -31,15 +31,13 @@ Retornará o endereço do repositório onde o código se encontra.
 
 ## Rodando os testes unitários
 
-Abra a solution no Visual Studio, navegue até o projeto TesteUnitarioCalculadoraSoftplan, vá até a pasta Testes, clique na classe do teste que
+Abra a solution "ApiCalculadoraSoftplan" no Visual Studio, navegue até o projeto TesteUnitarioCalculadoraSoftplan, vá até a pasta Testes, clique na classe do teste que
 deseja executar, clique em qualquer parte do código com o botão direito do mouse depois em "Run Test(s)".
 
 ## Rodando os testes de integração
 
-Abra a solution no Visual Studio, navegue até o projeto TesteIntegracaoCalculadoraSoftplan, vá até a pasta Testes, clique na classe do teste que
+Abra a solution "ApiCalculadoraSoftplan" no Visual Studio, navegue até o projeto TesteIntegracaoCalculadoraSoftplan, vá até a pasta Testes, clique na classe do teste que
 deseja executar, clique em qualquer parte do código com o botão direito do mouse depois em "Run Test(s)".
-Abra a solution no Visual Studio, navegue até o projeto ApiCalculadoraSoftplan e aperte f5.
-Explain how to run the automated tests for this system
 
 ## Colaboradores
 Jader Paiva Martins
