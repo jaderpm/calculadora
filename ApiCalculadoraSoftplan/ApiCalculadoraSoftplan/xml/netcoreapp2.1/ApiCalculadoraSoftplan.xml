@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiCalculadoraSoftplan</name>
+    </assembly>
+    <members>
+        <member name="M:ApiCalculadoraSoftplan.Controllers.CalculaJurosController.Get(System.Decimal,System.Int32)">
+             <summary>
+             Retorna o juros acúmulado com o valor inícial calculado com base na quantidade de meses informada
+             </summary>
+             <remarks>
+                 
+                 GET /Calculajuros
+                     
+                     Exemplo de Formato de parâmetros:
+                     
+                     valorInicial=100
+             
+                     meses=5
+                 
+            
+             </remarks>
+             <param name="valorInicial">Valor inicial para o cálculo</param>
+             <param name="meses">Quantidade de meses a ser calculado o juros</param>
+        </member>
+        <member name="M:ApiCalculadoraSoftplan.Controllers.ShowMeTheCodeController.Get">
+             <summary>
+             Retorna o endereço do repositório git onde se encontra o projeto.
+             </summary>
+             <remarks>
+             Exemplo:
+            
+                 GET /ShowMeTheCode
+            
+             </remarks>
+        </member>
+    </members>
+</doc>
