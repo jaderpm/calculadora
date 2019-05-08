@@ -1,8 +1,11 @@
 ﻿# Calculadora
 
-Api com dois endpoints, um que recebe um valor inicial X e uma quantidade em meses e calcula o valor acumulado com juros de 1% ao mes
-e o outro que informa o endereço onde se encontra o código do projeto no repositório git, testes de integração e testes unitários, uso de swagger e docker. 
+Api com dois endpoints, um que recebe um valor inicial X e uma quantidade Y em meses e calcula o valor acumulado com juros de 1% ao mês
+e o outro que informa o endereço onde se encontra o código do projeto no repositório git. Testes de integração e testes unitários também acompanham a solução, foi utilizado o docker e swagger
+na construção da api. 
+
 ## Iniciando
+
 Abra a solution "ApiCalculadoraSoftplan", nela se encontram 3 projetos:
 * ApiCalculadoraSoftplan - é a api em si, ao rodar o Visual Studio com ela será aberto uma página com os endpoints CalculaJuros e showmethecode.
 * TesteIntegracaoCalculadoraSoftplan - Neste projeto se encontram os testes de integração, você poderá ver e executar todos eles na aba TestExplorer do Visual Studio.
