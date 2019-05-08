@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace TesteUnitarioCalculadoraSoftplan
+namespace TesteUnitarioCalculadoraSoftplan.Testes
 {
     public class GitUrlTest
     {

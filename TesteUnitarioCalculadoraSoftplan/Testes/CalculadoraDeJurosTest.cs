@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Text;
 using static ApiCalculadoraSoftplan.Factories.FactoryFormatoRetorno;
 
-namespace TesteUnitarioCalculadoraSoftplan
+namespace TesteUnitarioCalculadoraSoftplan.Testes
 {
     public class CalculadoraDeJurosTest
     {
